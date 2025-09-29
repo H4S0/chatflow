@@ -6,7 +6,7 @@ const Footer = () => {
     <div className="flex flex-col items-center justify-center gap-5">
       <Separator />
       <div className="flex items-center gap-1 text-muted-foreground text-lg">
-        © 2024{' '}
+        © 2025{' '}
         <h2 className="font-thin italic hidden md:block">
           Chat<span className="font-bold">Flow</span>
         </h2>{' '}
